@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find the maximum sequence of continuous 1’s", "find the maximum sequence of continuous 1’s\find the maximum sequence of continuous 1’s.csproj", "{EF50E5C0-02D6-4BDD-A943-9AB990C48BAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF50E5C0-02D6-4BDD-A943-9AB990C48BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF50E5C0-02D6-4BDD-A943-9AB990C48BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF50E5C0-02D6-4BDD-A943-9AB990C48BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF50E5C0-02D6-4BDD-A943-9AB990C48BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AF94631-A910-4EA9-A16F-96C3139D59A0}
+	EndGlobalSection
+EndGlobal
